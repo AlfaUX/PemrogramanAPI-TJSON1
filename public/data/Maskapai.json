@@ -1,0 +1,20 @@
+{
+    "Maskapai": [
+        {
+            "IdMaskapai": "2",
+            "NamaMaskapai": "Batik Air",
+            "KodePanggil": "Batik02",
+            "TanggalDidirikan": "10.06",
+            "TahunDidirikan": "2012",
+            "HargaTiket": "1800000"
+        },
+        {
+            "IdMaskapai": "11",
+            "NamaMaskapai": "Lion Air",
+            "KodePanggil": "LionIn11",
+            "TanggalDidirikan": "15.11",
+            "TahunDidirikan": "1999",
+            "HargaTiket": "2500000"
+        }
+    ]
+}
